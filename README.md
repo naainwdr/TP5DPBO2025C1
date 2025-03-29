@@ -96,4 +96,7 @@ Terdapat 3 fitur yang dapat dilakukan oleh user dengan alur berikut.
 
 
 # Dokumentasi Program
-https://github.com/user-attachments/assets/ce80923a-e84d-45e4-8736-cb87ec218bc4
+https://github.com/user-attachments/assets/9f3383af-0f17-467b-8791-f27674f9dfb6
+
+
+
